@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yerebakan.JWT.Core", "Yerebakan.JWT.Core\Yerebakan.JWT.Core.csproj", "{3EC00DCB-DDDF-4095-ADF4-4C9FF4AF56F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yerebakan.JWT.DependencyInjection", "Yerebakan.JWT.DependencyInjection\Yerebakan.JWT.DependencyInjection.csproj", "{970A0419-C6C1-430A-8F6C-A3901A9F353E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC00DCB-DDDF-4095-ADF4-4C9FF4AF56F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC00DCB-DDDF-4095-ADF4-4C9FF4AF56F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC00DCB-DDDF-4095-ADF4-4C9FF4AF56F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC00DCB-DDDF-4095-ADF4-4C9FF4AF56F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76554A99-A980-461F-B374-B8A90AF0E593}
+	EndGlobalSection
+EndGlobal
