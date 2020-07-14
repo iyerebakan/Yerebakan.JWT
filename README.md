@@ -1,2 +1,4 @@
 # Yerebakan.JWT
-Json Web Token , API Token Base Authentication
+
+Install-Package Yerebakan.JWT.Core -Version 1.0.0
+Install-Package Yerebakan.JWT.DependencyInjection -Version 1.0.1
