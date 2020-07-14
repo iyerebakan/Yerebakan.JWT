@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yerebakan.JWT.Core", "Yereb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yerebakan.JWT.DependencyInjection", "Yerebakan.JWT.DependencyInjection\Yerebakan.JWT.DependencyInjection.csproj", "{970A0419-C6C1-430A-8F6C-A3901A9F353E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerebakan.JWT.Core.Test", "Yerebakan.JWT.Core.Test\Yerebakan.JWT.Core.Test.csproj", "{F9EFBF9B-9E87-49D2-A3F0-3609FA7A7191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yerebakan.JWT.Core.API", "Yerebakan.JWT.Core.API\Yerebakan.JWT.Core.API.csproj", "{9942613D-AFAE-4F25-8BF3-077C952F85ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{970A0419-C6C1-430A-8F6C-A3901A9F353E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EFBF9B-9E87-49D2-A3F0-3609FA7A7191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EFBF9B-9E87-49D2-A3F0-3609FA7A7191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EFBF9B-9E87-49D2-A3F0-3609FA7A7191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EFBF9B-9E87-49D2-A3F0-3609FA7A7191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9942613D-AFAE-4F25-8BF3-077C952F85ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9942613D-AFAE-4F25-8BF3-077C952F85ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9942613D-AFAE-4F25-8BF3-077C952F85ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9942613D-AFAE-4F25-8BF3-077C952F85ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

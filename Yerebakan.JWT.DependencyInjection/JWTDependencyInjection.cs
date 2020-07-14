@@ -10,7 +10,7 @@ namespace Yerebakan.JWT.DependencyInjection
 {
     public static class JWTDependencyInjection
     {
-        public static void AddBackendJWT(this IServiceCollection services, TokenOptions token)
+        public static void AddYerebakanJWT(this IServiceCollection services, TokenOptions token)
         {
             services.AddSingleton<ITokenHelper, JwtService>();
 
